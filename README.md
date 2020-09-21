@@ -22,23 +22,23 @@ The SOUL is intended to protect and promote the rights of fans of creative works
 - a. License grant.<br>
 - - 1\. Subject to the terms and conditions of the SOUL, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Original Work to produce, reproduce, and Share Fan Work.<br>
 - - - A. For the avoidance of doubt, the Licensor does not grant You the right to Share the Original Work, in whole or in part.<br>
-- - \2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, the SOUL does not apply, and You do not need to comply with its terms and conditions.<br>
-- - \3. Term. The term of the SOUL is specified in Section 5(a).<br>
-- - \4. Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of the SOUL, simply making modifications authorized by this Section 2(a)(4) never produces Fan Work.<br>
-- - \5. Downstream recipients.<br>
+- - 2\. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, the SOUL does not apply, and You do not need to comply with its terms and conditions.<br>
+- - 3\. Term. The term of the SOUL is specified in Section 5(a).<br>
+- - 4\. Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of the SOUL, simply making modifications authorized by this Section 2(a)(4) never produces Fan Work.<br>
+- - 5\. Downstream recipients.<br>
 - - - A. Offer from the Licensor – Original Work. Every recipient of the Original Work automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of the SOUL.<br>
 - - - B. Additional offer from the Licensor – Fan Work. Every recipient of Fan Work from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Fan Work under the conditions of the version of the SOUL You apply to the Fan Work.<br>
 - - - C. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Original Work if doing so restricts exercise of the Licensed Rights by any recipient of the Original Work.<br>
-- - \6. No endorsement. Nothing in the SOUL constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Original Work is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).<br>
+- - 6\. No endorsement. Nothing in the SOUL constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Original Work is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).<br>
 - b. Other rights.<br>
-- - \1. Moral rights, such as the right of integrity, are not licensed under the SOUL, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.<br>
-- - \2. Patent and trademark rights are not licensed under the SOUL.<br>
-- - \3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.<br>
+- - 1\. Moral rights, such as the right of integrity, are not licensed under the SOUL, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.<br>
+- - 2\. Patent and trademark rights are not licensed under the SOUL.<br>
+- - 3\. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.<br>
 
 # Section 3 – License Conditions.
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.<br>
 - a. Attribution Requirement.<br>
-- - \1. If You Share Fan Work, You must:<br>
+- - 1\. If You Share Fan Work, You must:<br>
 - - - A. retain the following if it is supplied by the Licensor with the Original Work:<br>
 - - - - i. identification of the creator(s) of the Original Work and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);<br>
 - - - - ii. a copyright notice;<br>
@@ -46,13 +46,13 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 - - - - iv. a notice that refers to the disclaimer of warranties;<br>
 - - - - v. a URI or hyperlink to the Original Work to the extent reasonably practicable;<br>
 - - - B. indicate the Original Work is licensed under the SOUL, and include the text of, or the URI or hyperlink to, the SOUL.<br>
-- - \2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Original Work. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.<br>
-- - \3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.<br>
+- - 2\. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Original Work. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.<br>
+- - 3\. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.<br>
 - b. In addition to the conditions in Section 3(a), if You Share Fan Work You produce, the following conditions also apply.<br>
-- - \1. You must apply the SOUL to Your Copyright and Similar Rights in the Fan Work.<br>
+- - 1\. You must apply the SOUL to Your Copyright and Similar Rights in the Fan Work.<br>
 - - - A. The license You apply must be this version of the SOUL or later.<br>
-- - \2. You must include the text of, or the URI or hyperlink to, the version of the SOUL You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Fan Work.<br>
-- - \3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Fan Work that restrict exercise of the rights granted under the version of the SOUL You apply.<br>
+- - 2\. You must include the text of, or the URI or hyperlink to, the version of the SOUL You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Fan Work.<br>
+- - 3\. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Fan Work that restrict exercise of the rights granted under the version of the SOUL You apply.<br>
 
 # Section 4 – Disclaimer of Warranties and Limitation of Liability.
 - a. Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Original Work as-is and as-available, and makes no representations or warranties of any kind concerning the Original Work, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.<br>
@@ -62,8 +62,8 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 # Section 5 – Term and Termination.
 - a. The SOUL applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with the SOUL, then Your rights under the SOUL terminate automatically.<br>
 - b. Where Your right to use the Original Work has terminated under Section 5(a), it reinstates:<br>
-- - \1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or<br>
-- - \2. upon express reinstatement by the Licensor.<br>
+- - 1\. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or<br>
+- - 2\. upon express reinstatement by the Licensor.<br>
 - - For the avoidance of doubt, this Section 5(b) does not affect any right the Licensor may have to seek remedies for Your violations of the SOUL.<br>
 - c. For the avoidance of doubt, the Licensor may also offer the Original Work under separate terms or conditions or stop distributing the Original Work at any time; however, doing so will not terminate the SOUL.<br>
 - d. Sections 1, 4, 5, 6 and 7 survive termination of the SOUL.<br>
