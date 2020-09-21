@@ -20,7 +20,7 @@ The SOUL is intended to protect and promote the rights of fans of creative works
 
 # Section 2 – Scope.
 - a. License grant.<br>
-- - \1. Subject to the terms and conditions of the SOUL, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Original Work to produce, reproduce, and Share Fan Work.<br>
+- - 1\. Subject to the terms and conditions of the SOUL, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Original Work to produce, reproduce, and Share Fan Work.<br>
 - - - A. For the avoidance of doubt, the Licensor does not grant You the right to Share the Original Work, in whole or in part.<br>
 - - \2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, the SOUL does not apply, and You do not need to comply with its terms and conditions.<br>
 - - \3. Term. The term of the SOUL is specified in Section 5(a).<br>
