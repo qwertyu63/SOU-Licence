@@ -1,7 +1,7 @@
 # Shared Open Universe Licence
 The Shared Open Universe Licence is a public licence intended for application to novels and other works of fiction to enable free creation and sharing of fan work. The text of the Shared Open Universe Licence is based on pre-existing public domain/CC0 content; what original work does reside in the text of the Shared Open Universe Licence is dedicated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode). For the avoidance of doubt, this paragraph does not form part of the Shared Open Universe Licence.
 
-# Shared Open Universe License, version 1.1
+# Shared Open Universe License, version 1.2
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Shared Open Universe License ("SOUL"). To the extent the SOUL may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Creator grants You such rights in consideration of benefits the Creator receives from making the Original Work available under these terms and conditions.
 
 # Statement of Purpose.
