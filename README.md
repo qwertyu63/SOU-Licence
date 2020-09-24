@@ -5,7 +5,7 @@ The Shared Open Universe Licence is a public licence intended for application to
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Shared Open Universe License ("SOUL"). To the extent the SOUL may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Creator grants You such rights in consideration of benefits the Creator receives from making the Original Work available under these terms and conditions.
 
 # Statement of Purpose.
-The SOUL is intended to protect and promote the rights of fans of creative works to create and Share Fan Works derived from the Creative Content in the Original Work, including for commercial purposes, but without infringing on the original creator's exclusive rights to publish the Original Work and control how it is Shared.
+The SOUL is intended to protect and promote the rights of fans of creative works to create and Share Fan Works derived from the Creative Content in the Original Work, including for commercial purposes, but without infringing on the original creator's exclusive rights to publish the Original Work and control how it is Shared. In turn, the requirements for the Fan Works being released under the terms of this licence is intended to allow different fans and the original creator to build upon each other's ideas as each desired.
 
 # Section 1 – Definitions.
 * a. Fan Work means material subject to Copyright and Similar Rights that is derived from or based upon the Creative Content in the Original Work in a manner requiring permission under the Copyright and Similar Rights held by the Creator.<br>
