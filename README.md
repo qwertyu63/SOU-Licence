@@ -1,39 +1,41 @@
 # Shared Open Universe Licence
 The Shared Open Universe Licence is a public licence intended for application to novels and other works of fiction to enable free creation and sharing of fan work. The text of the Shared Open Universe Licence is based on pre-existing public domain/CC0 content; what original work does reside in the text of the Shared Open Universe Licence is dedicated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode). For the avoidance of doubt, this paragraph does not form part of the Shared Open Universe Licence.
 
-# Shared Open Universe License, version 1.2
+# Shared Open Universe License, version 1.3
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Shared Open Universe License ("SOUL"). To the extent the SOUL may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Creator grants You such rights in consideration of benefits the Creator receives from making the Original Work available under these terms and conditions.
 
 # Statement of Purpose.
 The SOUL is intended to protect and promote the rights of fans of creative works to create and Share Fan Works derived from the Creative Content in the Original Work, including for commercial purposes, but without infringing on the original creator's exclusive rights to publish the Original Work and control how it is Shared. In turn, the requirements for the Fan Works being released under the terms of this licence is intended to allow different fans and the original creator to build upon each other's ideas as each desired.
 
 # Section 1 – Definitions.
-* a. Fan Work means material subject to Copyright and Similar Rights that is derived from or based upon the Creative Content in the Original Work in a manner requiring permission under the Copyright and Similar Rights held by the Creator.<br>
+* a. Fan Work means material subject to Copyright and Similar Rights that is derived from or based upon the Creative Content in the Original Work in a manner requiring permission under the Copyright and Similar Rights held by the Creator. Material that does not add new Creative Content is not considered Fan Work.<br>
 * b. Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast and sound recording, without regard to how the rights are labeled or categorized. For purposes of the SOUL, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.<br>
 * c. Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.<br>
 * d. Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Original Work.<br>
 * e. Original Work means the artistic or literary work, database, or other material to which the Creator applied the SOUL.<br>
-* f. Creative Content means the characters, settings, events, objects, groups and other narrative elements and ideas expressed in the Original Work. For purposes of the SOUL, the text and images of the Original Work are not inherently Creative Content.<br>
+* f. Creative Content means the characters, settings, events, objects, groups and other narrative elements and ideas expressed a work. For purposes of the SOUL, text and images are not inherently Creative Content.<br>
 * g. Licensed Rights means the rights granted to You subject to the terms and conditions of the SOUL, which are limited to all Copyright and Similar Rights that apply to Your use of the Original Work and that the Creator has authority to license.<br>
 * h. Creator means the individual(s) or entity(ies) granting rights under the SOUL.<br>
 * i. Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.<br>
-* j. You means the individual or entity exercising the Licensed Rights under the SOUL. Your has a corresponding meaning.<br>
+* j. Identifing Elements means the title, logo and other elements unique to and identifing of the Original Work.<br>
+* k. You means the individual or entity exercising the Licensed Rights under the SOUL. Your has a corresponding meaning.<br>
 
 # Section 2 – Scope.
 * a. License grant.<br>
-  * 1\. Subject to the terms and conditions of the SOUL, the Creator hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Original Work to produce, reproduce, and Share Fan Work.<br>
+  * 1\. Sharing Fan Works. Subject to the terms and conditions of the SOUL, the Creator hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Original Work to produce, reproduce, and Share Fan Work.<br>
     * A. For the avoidance of doubt, the Creator does not grant You the right to Share the Original Work, in whole or in part.<br>
-  * 2\. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, the SOUL does not apply, and You do not need to comply with its terms and conditions.<br>
-  * 3\. Term. The term of the SOUL is specified in Section 5(a).<br>
-  * 4\. Media and formats; technical modifications allowed. The Creator authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Creator waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of the SOUL, simply making modifications authorized by this Section 2(a)(4) never produces Fan Work.<br>
-  * 5\. Downstream recipients.<br>
+  * 2\. Using Identifing Elements. Subject to the terms and conditions of the SOUL, the Creator hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to utilize the Identifing Elements in the Original Work in the process of exercising your Licensed Rights to Share Fan Work, subject to Section 2(a)(7).<br>
+  * 3\. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, the SOUL does not apply, and You do not need to comply with its terms and conditions.<br>
+  * 4\. Term. The term of the SOUL is specified in Section 5(a).<br>
+  * 5\. Media and formats; technical modifications allowed. The Creator authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Creator waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of the SOUL, simply making modifications authorized by this Section 2(a)(5) never produces Fan Work.<br>
+  * 6\. Downstream recipients.<br>
     * A. Offer from the Creator – Original Work. Every recipient of the Original Work automatically receives an offer from the Creator to exercise the Licensed Rights under the terms and conditions of the SOUL.<br>
     * B. Additional offer from the Creator – Fan Work. Every recipient of Fan Work from You automatically receives an offer from the Creator to exercise the Licensed Rights in the Fan Work under the conditions of the version of the SOUL You apply to the Fan Work.<br>
     * C. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Original Work if doing so restricts exercise of the Licensed Rights by any recipient of the Original Work.<br>
-  * 6\. No endorsement. Nothing in the SOUL constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Original Work is, connected with, or sponsored, endorsed, or granted official status by, the Creator or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).<br>
+  * 7\. No endorsement. Nothing in the SOUL constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Original Work is, connected with, or sponsored, endorsed, or granted official status by, the Creator or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).<br>
 * b. Other rights.<br>
   * 1\. Moral rights, such as the right of integrity, are not licensed under the SOUL, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Creator waives and/or agrees not to assert any such rights held by the Creator to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.<br>
-  * 2\. Patent and trademark rights are not licensed under the SOUL.<br>
+  * 2\. Patent and trademark rights are not licensed under the SOUL, except as stated in Section 2(a)(2).<br>
   * 3\. To the extent possible, the Creator waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Creator expressly reserves any right to collect such royalties.<br>
 
 # Section 3 – License Conditions.
@@ -51,7 +53,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
   * 3\. If requested by the Creator, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.<br>
 * b. In addition to the conditions in Section 3(a), if You Share Fan Work You produce, the following conditions also apply.<br>
   * 1\. You must apply the SOUL to Your Copyright and Similar Rights in the Fan Work.<br>
-    * A. The license You apply must be this version of the SOUL or later.<br>
+    * A. The license You apply must be the version of the SOUL applied to the Original Work or a later version.<br>
   * 2\. You must include the text of, or the URI or hyperlink to, the version of the SOUL You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Fan Work.<br>
   * 3\. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Fan Work that restrict exercise of the rights granted under the version of the SOUL You apply.<br>
 
