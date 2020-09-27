@@ -5,7 +5,7 @@ Nicholas Fletcher, the creator of the Shared Open Universe Licence (hereafter "t
 
 The term "Shared Open Universe Licence" is copyright Nicholas Fletcher and the SOUL logo is copyright Kendall Fletcher. Except for the limited purpose of indicating that material is shared under the Shared Open Universe Licence, the SOUL Writer does not authorize the use of the term "Shared Open Universe Licence" or the SOUL logo.<br>
 
-The SOUL Writer is not a party to this license. Notwithstanding, the SOUL Writer may elect to apply the license to material they publish and in those instances will be considered the "Creator". For the avoidance of doubt, the contents of this grey box does not form part of the Shared Open Universe Licence.<br>
+The SOUL Writer is not a party to this license. Notwithstanding, the SOUL Writer may elect to apply the license to material they publish and in those instances will be considered the "Creator". For the avoidance of doubt, the contents of this section does not form part of the Shared Open Universe Licence.<br>
 
 ---
 
