@@ -1,9 +1,9 @@
 # Shared Open Universe Licence
 The Shared Open Universe Licence is a public licence intended for application to novels and other works of fiction to enable free creation and sharing of fan work. The text of the Shared Open Universe Licence is based on pre-existing public domain/CC0 content; what original work does reside in the text of the Shared Open Universe Licence is dedicated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).<br>
 
-The creator of the Shared Open Universe Licence (hereafter "I") is not a lawyer and does not provide legal services or legal advice. Distribution of this license does not create a lawyer-client or other relationship. This license is available on an “as-is” basis. I give no warranties regarding this license, any material licensed under it, or any related information; I disclaim all liability for damages resulting from its use to the fullest extent possible.
+Nicholas Fletcher, the creator of the Shared Open Universe Licence (hereafter "the SOUL Writer"), is not a lawyer and does not provide legal services or legal advice. Distribution of this license does not create a lawyer-client or other relationship. This license is available on an “as-is” basis. The SOUL Writer gives no warranties regarding this license, any material licensed under it, or any related information; the SOUL Writer disclaims all liability for damages resulting from its use to the fullest extent possible.<br>
 
-I am not a party to this license. Notwithstanding, I may elect to apply the license to material I publish and in those instances will be considered the "Creator". For the avoidance of doubt, everything under this heading (i.e. above the below dividing line) does not form part of the Shared Open Universe Licence.<br>
+The SOUL Writer is not a party to this license. Notwithstanding, the SOUL Writer may elect to apply the license to material they publish and in those instances will be considered the "Creator". For the avoidance of doubt, the contents of this grey box does not form part of the Shared Open Universe Licence.<br>
 
 ---
 
