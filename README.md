@@ -3,7 +3,9 @@ The Shared Open Universe Licence is a public licence intended for application to
 
 The creator of the Shared Open Universe Licence (hereafter "I") is not a lawyer and does not provide legal services or legal advice. Distribution of this license does not create a lawyer-client or other relationship. This license is available on an “as-is” basis. I give no warranties regarding this license, any material licensed under it, or any related information; I disclaim all liability for damages resulting from its use to the fullest extent possible.
 
-I am not a party to this license. Notwithstanding, I may elect to apply the license to material I publish and in those instances will be considered the "Creator". For the avoidance of doubt, everything under this heading does not form part of the Shared Open Universe Licence.<br>
+I am not a party to this license. Notwithstanding, I may elect to apply the license to material I publish and in those instances will be considered the "Creator". For the avoidance of doubt, everything under this heading (i.e. above the below dividing line) does not form part of the Shared Open Universe Licence.<br>
+
+---
 
 # Shared Open Universe License, version 1.3
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Shared Open Universe License ("SOUL"). To the extent the SOUL may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Creator grants You such rights in consideration of benefits the Creator receives from making the Original Work available under these terms and conditions.<br>
