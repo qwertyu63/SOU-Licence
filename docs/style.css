@@ -1,0 +1,85 @@
+@font-face {
+	font-family: 'Bellefair';	src:url('bellefair-regular.otf?#iefix') format('embedded-opentype')
+	}
+@font-face {
+	font-family: 'Redressed';    src:url('redressed.ttf?#iefix')
+	}
+
+
+ 
+ ::-webkit-scrollbar-thumb {
+height:9px;
+background-color: #1963a5;
+}
+ 
+::-webkit-scrollbar {
+width:9px;
+height:4px;
+background:#0e365a;
+margin-right:5px;
+}
+ 
+
+::-moz-selection {
+    color:#ffffff;
+    background:#1963a5;}
+   
+::selection {
+    color:#ffffff;
+    background:#1963a5;}
+
+body {
+   background-color:FloralWhite;
+   font-family:'bellefair';
+   font-size:18px;
+   color:#1e2932;
+  overflow: hidden;
+}
+
+
+#basicterms {
+         overflow: hidden;
+
+}
+
+h1 {
+  text-align: right;
+   font-family:'Redressed';
+   font-size:40px;
+   color:#1963a5;  
+}
+h2 {
+   font-family:'Redressed';
+   color:#1963a5;  
+}
+
+a { 
+    text-decoration:none;
+    font-size:18px;
+    color:#1963a5;
+  font-weight: bolder;
+    -webkit-transition: all 0.7s ease;
+    -moz-transition: all 0.7s ease;
+    -o-transition: all 0.7s ease;
+}
+
+a:hover { 
+    color:#0e365a;
+}
+
+#logo img {
+  width: 400px;
+  height: 420px;
+  float: left;
+  margin-top:2%;
+}
+
+#container {
+position:fixed;
+  top:-5%;
+  padding: 3%;
+    width: 90%;
+    height:90%;
+    overflow-y:scroll;
+    margin:3%;
+}
