@@ -1,8 +1,8 @@
 @font-face {
-	font-family: 'Bellefair';	src:url('bellefair-regular.otf?#iefix') format('embedded-opentype')
+	font-family: 'Bellefair';	src:url('bellefair-regular.otf') format('embedded-opentype')
 	}
 @font-face {
-	font-family: 'Redressed';    src:url('redressed.ttf?#iefix')
+	font-family: 'Redressed';    src:url('redressed.ttf')
 	}
 
 
